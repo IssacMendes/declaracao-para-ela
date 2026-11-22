@@ -1,0 +1,35 @@
+DECLARAÇÃO PARA ELA — COMO PERSONALIZAR
+
+ARQUIVOS
+- index.html: estrutura e textos de cada capítulo.
+- style.css: cores, fontes, tamanhos, animações e layout.
+- script.js: navegação, transições, pétalas e player de áudio.
+- images/: coloque aqui as fotos de vocês.
+
+COMO ABRIR
+1. Extraia a pasta do ZIP.
+2. Abra a pasta no VS Code.
+3. Abra index.html no navegador (ou use a extensão Live Server).
+
+COMO COLOCAR AS FOTOS
+Coloque suas imagens na pasta images e use estes nomes:
+- foto1.jpg
+- foto2.jpg
+- foto3.jpg
+- foto4.jpg
+
+Se suas fotos forem PNG, altere também o final do nome no src correspondente dentro do index.html.
+
+COMO COLOCAR A MÚSICA
+O player está preparado para tocar um arquivo local chamado musica.mp3.
+Coloque na pasta principal do projeto um arquivo musica.mp3 que você tenha direito de usar.
+O site não baixa nem incorpora a gravação comercial de "Look Up at the Stars", de Shawn Mendes.
+O título e a referência à música já estão no site. O navegador só mostrará a mensagem especial depois que o áudio começar a tocar.
+
+PERSONALIZAÇÃO
+Você pode editar os textos diretamente no index.html.
+As cores principais ficam no começo do style.css, dentro de :root.
+Para publicar, envie a pasta completa para sua hospedagem/GitHub Pages, mantendo os nomes e a estrutura dos arquivos.
+
+DICA
+Teste no celular antes de enviar o link para ela. A experiência foi pensada primeiro para telas pequenas.
